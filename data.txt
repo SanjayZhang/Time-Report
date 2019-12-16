@@ -40,4 +40,5 @@ sl 6h 10
 tw 3h 57
 stone 5h 51
 web dev 31
+coding 2h 44
 
