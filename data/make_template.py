@@ -19,8 +19,8 @@ while cur < end:
         title = title.ljust(40, '-')
         output += title + '\n'
 
-    # weekday, date: 'MON, 2019-11-9'
-    output += day_abbrs[cur.weekday()] + ', ' + str(cur) + '\n'
+    # weekday, date: '* MON, 2019-11-9'
+    output += '*' + day_abbrs[cur.weekday()] + ', ' + str(cur) + '\n\n'
 
     # next day
     cur = cur + one_day

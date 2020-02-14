@@ -1,17 +1,17 @@
 -----------------Week 1-----------------
 * MON, 2019-09-02
-gdb 4h30
-lecture 30
-wo = work out 2h30
+coding 4h30
+study 30
+wo = workout 2h30
 
 * TUE, 2019-09-03
-gdb 3h
+coding 3h
 dp = design pattern 1h30
 rd = reading 30
 wo 2h
 
 * WED, 2019-09-04
-asm = assemble 2h10
+asm = assembly 2h10
 dp 2h
 cd = coding 4h40
 wo 2h
@@ -37,20 +37,77 @@ hashtree 2h
 hashtree 10h
 -----------------Week 2-----------------
 * MON, 2019-09-09
+fl 75
+linux 15
+cg = Computer Graphics 73
+hashtree 141
+dp 90
+wo 2h
+
 * TUE, 2019-09-10
+dp 80
+hashtree 20
+linux 10
+cn 107
+wo 90
+
 * WED, 2019-09-11
+asm 115
+dp 110
+cg 45
+cd = coding 166
+wo 90
+
 * THU, 2019-09-12
+dp 90
+
 * FRI, 2019-09-13
+dp 90
+
 * SAT, 2019-09-14
+dp 90
+
 * SUN, 2019-09-15
+dp 90
+
 -----------------Week 3-----------------
 * MON, 2019-09-16
+fl 105
+cg 22
+cd 156
+dp 2h36
+wo 1h30
+
 * TUE, 2019-09-17
+cn 5h25
+dp 10
+cg 2h25
+wo 1h30
+
 * WED, 2019-09-18
+asm 1h57
+cg 3h30
+fl 1h
+wo 1h
+
 * THU, 2019-09-19
+cg 4h39
+dp 2h13
+fl 1h15
+cd 1h15
+wo 1h30
+
 * FRI, 2019-09-20
+asm 1h45
+cn 1h45
+dp 45
+cd 57
+wo 1h30
+
 * SAT, 2019-09-21
+
 * SUN, 2019-09-22
+
 -----------------Week 4-----------------
 * MON, 2019-09-23
 * TUE, 2019-09-24
@@ -69,113 +126,496 @@ hashtree 10h
 * SUN, 2019-10-06
 -----------------Week 6-----------------
 * MON, 2019-10-07
+
 * TUE, 2019-10-08
+rd 40
+study 10h20
+wo 2h
+
 * WED, 2019-10-09
+study 14h50
+wo 1h
+
 * THU, 2019-10-10
+study 12.5h
+
 * FRI, 2019-10-11
 * SAT, 2019-10-12
 * SUN, 2019-10-13
 -----------------Week 7-----------------
 * MON, 2019-10-14
+study 8h25
+wo 1h
+
 * TUE, 2019-10-15
+
 * WED, 2019-10-16
+study 8.5h
+rd 15
+wo 1h30
+
 * THU, 2019-10-17
+
 * FRI, 2019-10-18
 * SAT, 2019-10-19
 * SUN, 2019-10-20
 -----------------Week 8-----------------
 * MON, 2019-10-21
+study 6h54
+reading 30
+wo 1h30
+
 * TUE, 2019-10-22
+study 7h
+
 * WED, 2019-10-23
+rd 1h
+study 11h20
+wo 1h
+
 * THU, 2019-10-24
+study 8h9
+rd 10
+cd 50
+
 * FRI, 2019-10-25
+study 9h
+wo 90
+cd 48
+
 * SAT, 2019-10-26
+study 9h35
+cd 180
+
 * SUN, 2019-10-27
+study 7h
+cd 263
+
 -----------------Week 9-----------------
 * MON, 2019-10-28
+sl = sleep 7h10
+study 9h25
+wo 1h
+rd 51
+
 * TUE, 2019-10-29
+sleep 6h45
+study 12h10
+rd 20
+wo 1h
+
 * WED, 2019-10-30
+study 4h
+
 * THU, 2019-10-31
+
 * FRI, 2019-11-01
+sleep 4h
+rd 4h20
+wo 1h10
+
 * SAT, 2019-11-02
+rd 3h2
+wo 1h
+
 * SUN, 2019-11-03
+gfw 1h46
+asm 2h
+cn 1h10
+wo 1h10
+rd 29
+
 ----------------Week 10-----------------
 * MON, 2019-11-04
+sl 7h15
+rd 40
+study 6h34
+wo 40
+
 * TUE, 2019-11-05
+sleep 7h25
+rd 38
+cn 4h53
+os 1h40
+tw = Tao Te Ching 1h20
+ol = oriental literature 1h10
+
 * WED, 2019-11-06
+db = database 1h40
+asm 1h20
+cn 1h40
+
 * THU, 2019-11-07
+os 1h40
+cg 65
+cn 60
+reading 10
+print 30
+
 * FRI, 2019-11-08
+sl = sleep 8h30
+cn 1h37
+asm 1h30
+cg 3h58
+
 * SAT, 2019-11-09
+sl 8h
+rd 1h
+cg 7h10
+print 25
+wo 50
+
 * SUN, 2019-11-10
+sl 8h46
+cg 30
+os = Operating System 3h20
+py 2h30
+
 ----------------Week 11-----------------
 * MON, 2019-11-11
+sl 6h36
+rd 10
+cg 1h30
+db 4h16
+os 2h30
+py 3h34
+tw 1h5
+
 * TUE, 2019-11-12
+sl 4h50
+cg 1h16
+tw 4h
+ol 2h38
+rd 20
+cn 3h2
+db 1h
+
 * WED, 2019-11-13
+sleep 7h30
+cg 4h3
+db 1h45
+py 50
+asm 50
+ol 1h17
+fl 1h45
+ml = Mathematical Culture 1h30
+
 * THU, 2019-11-14
+sl 5h30
+ol 1h42
+cn 25
+os 1h15
+
 * FRI, 2019-11-15
+ol 2h36
+cn 30
+fl 25
+py 8h35
+asm 1h40
+wo 1h30
+
 * SAT, 2019-11-16
+ol 1h10
+fl 5h8
+py 8h15
+
 * SUN, 2019-11-17
+ol 3h15
+fl 5h30
+cn 5h40
+
 ----------------Week 12-----------------
 * MON, 2019-11-18
+db 1h
+reading 2h50
+cn 5h
+fl 5h40
+
 * TUE, 2019-11-19
+os 1h30
+rd 10
+print 10
+ol 1h35
+tw 1h20
+
 * WED, 2019-11-20
+cc = Code Complete 30
+db 1h30
+asm 1h20
+stone = Dream of the Red Chamber 5h23
+
 * THU, 2019-11-21
+cc 25
+os 1h20
+stone 1h40
+
 * FRI, 2019-11-22
+sl 7h35
+cc 15
+asm 1h40
+db 8h
+
 * SAT, 2019-11-23
+rd 20
+cn 1h
+
 * SUN, 2019-11-24
+rd 50
+cn 2h42
+
 ----------------Week 13-----------------
 * MON, 2019-11-25
+db 1h30
+cn 10
+rd 80
+
 * TUE, 2019-11-26
+cn 2h29
+os 1h35
+tw 21
+rd 15
+cc 1h55
+
 * WED, 2019-11-27
+sl 7h
+cn 6h24
+cc 25
+ml 1h15
+
 * THU, 2019-11-28
+sl 4h40
+os 40
+cc 15
+wo 1h30
+
 * FRI, 2019-11-29
+sl 7h57
+eg = English 20
+asm 1h55
+diagram 2h59
+stone 50
+
 * SAT, 2019-11-30
+sleep 7h30
+stone 2h
+eg 15
+diagram 30
+calli = handwriting practice 15
+
 * SUN, 2019-12-01
+sleep 6h10
+diagram 15
+rd 12
+tw 4h17
+asm 4h
+wo 1h30
+calli 15
+
 ----------------Week 14-----------------
 * MON, 2019-12-02
+sl 6h25
+db 2h10
+ol 1h43
+cc 30
+py 1h30
+asm 3h40
+
 * TUE, 2019-12-03
+sl 7h19
+ol 6h
+rd 15
+cc 1h15
+tw 40
+calli 16
+
 * WED, 2019-12-04
+sl 8h
+db 40
+asm 20
+cc 2h20
+stone 11h10
+
 * THU, 2019-12-05
+sl 4h
+cc 50
+stone 1h20
+asm 6h
+
 * FRI, 2019-12-06
+sl 6h40
+asm 9h
+db 6h30
+
 * SAT, 2019-12-07
+pyqt 5h37
+stone 30
+wo 1h
+
 * SUN, 2019-12-08
+sl 8h30
+pyqt 3h20
+db 6h40
+cd 1h
+calli 20
+
 ----------------Week 15-----------------
 * MON, 2019-12-09
+db 1h40
+pyqt 9h5
+
 * TUE, 2019-12-10
+py 9h40
+os 1h20
+cc 20
+calli 15
+
 * WED, 2019-12-11
+sl 6h
+db 1h
+cc 40
+py 6h45
+cd 2h57
+calli 15
+wo 1h
+
 * THU, 2019-12-12
+sl 5h40
+os_exp 1h
+cc 40
+os 9h46
+
 * FRI, 2019-12-13
+sl 5h40
+os_exp 11h40
+asm 20
+
 * SAT, 2019-12-14
+sl 7h40
+os_exp 5h
+tw 4h40
+wo 1h30
+
 * SUN, 2019-12-15
+sl 6h10
+tw 3h57
+stone 5h51
+rd 31
+cd 3h
+
 ----------------Week 16-----------------
 * MON, 2019-12-16
+sl 9h
+db 20
+db_exp 8h23
+
 * TUE, 2019-12-17
+sl 6h50
+os 1h20
+db_exp 9h5
+rd 30
+
 * WED, 2019-12-18
+sl 10h30
+db_exp 4h42
+stone 1h18
+rd 1h10
+wo 1h
+
 * THU, 2019-12-19
+
 * FRI, 2019-12-20
+sl 6h30
+rd 1h20
+cc 1h10
+stone 3h13
+asm 4h31
+wo 49
+ol 30
+
 * SAT, 2019-12-21
+stone 3h10
+os_exp 11h30
+
 * SUN, 2019-12-22
+db_exp 5h
+os_exp 7h20
+ol 1h
+
 ----------------Week 17-----------------
 * MON, 2019-12-23
+ol 3h
+
 * TUE, 2019-12-24
+ol 7h40
+tw 2h15
+ml 3h20
+wo 1h
+
 * WED, 2019-12-25
+sl 9h30
+stone 7h35
+rd 17
+
 * THU, 2019-12-26
+sl 4h
+stone 7h
+tw 3h
+ol 1h30
+wo 1h30
+
 * FRI, 2019-12-27
+ol 5h
+
 * SAT, 2019-12-28
+
 * SUN, 2019-12-29
+sl 7h30
+db 11h47
+
 ----------------Week 18-----------------
 * MON, 2019-12-30
+sl 7h
+db 7h
+asm 4h
+
 * TUE, 2019-12-31
+sl 4h
+rd 1h
+stone 3h40
+ol 50
+tw 1h40
+asm 9h30
+
 * WED, 2020-01-01
+stone 8h10
+
 * THU, 2020-01-02
+sl 9h
+stone 1h
+bomb lab 9h22
+
 * FRI, 2020-01-03
+sl 7h30
+os 1h40
+bomb lab 1h
+
 * SAT, 2020-01-04
+rd 2h
+
 * SUN, 2020-01-05
+
 ----------------Week 19-----------------
 * MON, 2020-01-06
+os 1h30
+
 * TUE, 2020-01-07
+os 6h15
+
 * WED, 2020-01-08
+os 2h
+
 * THU, 2020-01-09
+os 8h20
+
 * FRI, 2020-01-10
-* SAT, 2020-01-11
-* SUN, 2020-01-12
+os 5h
